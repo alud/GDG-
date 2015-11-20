@@ -18,5 +18,5 @@ before_script:
   - sleep 10
   - adb shell input keyevent 82
 
-  notifications:
-    slack: conference-chat:cxF2N6cMTY93bdpfxvHMltmg
+notifications:
+  slack: conference-chat:cxF2N6cMTY93bdpfxvHMltmg
